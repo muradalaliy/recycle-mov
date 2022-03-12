@@ -1,0 +1,3 @@
+include ':movrecycleauto'
+include ':app'
+rootProject.name = "recyautomov"
